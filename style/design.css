@@ -1,0 +1,33 @@
+body{
+	font-family: times new roman;
+}
+#won{
+	text-align: left;
+}
+#two{
+	text-align: right;
+}
+#three{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+#one{
+	background-image: PICTURES/africaslam.png;
+}
+.six{
+	float: right;
+	background-color: #00ffff; width: 50%
+	
+}
+.seven{
+	float: left;
+	background-color: grey; width: 40%
+}
+#kk{
+	text-align: center;
+}
+#dr{
+	text-align: center;
+}
